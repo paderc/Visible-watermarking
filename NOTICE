@@ -1,0 +1,8 @@
+This project includes third-party software:
+
+- pytesseract (Python wrapper for Google Tesseract-OCR)
+  Source: https://github.com/madmaze/pytesseract
+  License: Apache License 2.0
+  Copyright: pytesseract contributors
+
+A copy of the Apache License 2.0 is provided in LICENSES/Apache-2.0.txt.
